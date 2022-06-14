@@ -4,7 +4,7 @@ It is my undergraduate graduation design.
 
 这个repo是我本科的毕业设计内容。
 
-there were pdf files about every requirement (e.g. Mission Book, Thesis, and etc) and codes for algorithms and thesis.
+there were pdf files (only including Mission Book and Thesis) and codes for algorithms and thesis.
 
 里边包含着任务书、论文等的pdf文件以及论文、算法的代码。
 
