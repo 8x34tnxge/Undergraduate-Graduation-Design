@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+networkx = "*"
+numpy = "*"
+matplotlib = "*"
+nptyping = "*"
+yacs = "*"
+geomdl = "*"
+tqdm = "*"
+pandas = "*"
+scipy = "*"
+rtree = "*"
+
+[dev-packages]
+loguru = "*"
+pytest = "*"
+black = "*"
+pytest-timeout = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
